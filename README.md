@@ -20,6 +20,7 @@ Space Pong is a 2D desktop multiplayer game developed on Unity. This game was de
 ## Demonstration
 
 The full project has been showcased in the video below. Have a look to get a clear idea about the game: https://www.youtube.com/watch?v=-1-GC_Zndu0
+
 Leave a like if you like it, I guess!
 
 ## Team
